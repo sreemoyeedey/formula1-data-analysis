@@ -7,6 +7,6 @@ A **data analysis** project exploring historical Formula 1 race data to uncover 
 - Does qualifying position strongly correlate with race wins?
 
 ## 🛠️ Tools & Technologies
-- **Python**: `pandas`, `matplotlib`, `seaborn`, `jupyter`
+- **Python**: `pandas`, `matplotlib`, `seaborn`, `google colab`
 - **Data**: Kaggle’s [F1 Dataset (1950–2024)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
 - **Version Control**: Git/GitHub
